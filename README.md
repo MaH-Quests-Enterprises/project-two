@@ -20,3 +20,5 @@ On this project we will be using IntelliJ to commit files and versions.
 
 •	Scum master
 
+•	Virtual Reality and 3-D Printing
+
