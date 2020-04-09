@@ -15,3 +15,5 @@ On this project we will be using IntelliJ to commit files and versions.
 •	TomcatEE
 
 •	JavaEE
+
+•	Google Digitalization (training and certification) 
