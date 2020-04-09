@@ -16,5 +16,5 @@ On this project we will be using IntelliJ to commit files and versions.
 
 •	JavaEE
 
-•	Scum master
+•	Scrum master
 
