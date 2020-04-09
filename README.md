@@ -28,3 +28,5 @@ On this project we will be using IntelliJ to commit files and versions.
 
 •	Virtual Reality and 3-D Printing
 
+•	MS Office Suite certification
+
