@@ -24,6 +24,8 @@ On this project we will be using IntelliJ to commit files and versions.
 •	SAP
 •	Test
 
+•	MS Office Suite certification
+
 
 
 •	Virtual Reality and 3-D Printing
